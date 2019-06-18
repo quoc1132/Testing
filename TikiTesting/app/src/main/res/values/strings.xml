@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TikiTesting</string>
+    <string name="utility_service">Dịch Vụ Tiện Ích</string>
+    <string name="coupon_cooperation"><![CDATA[Ưu đãi & hợp tác]]></string>
+    <string name="coupon_cooperation_content">Các ưu đãi cho chủ ngân hàng</string>
+    <string name="hot_topics">Từ khoá hot</string>
+    <string name="register_to_get_the_experience_better">Đăng nhập để trải nghiệm tốt nhất</string>
+    <string name="register">ĐĂNG KÝ</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="tiki_deal">Tiki deal</string>
+
+    <string-array name="topics_arr">
+        <item>Mẹ &amp; Bé</item>
+        <item>Sức Khoẻ</item>
+        <item>Dụng</item>
+        <item>Dịch Vụ</item>
+    </string-array>
+</resources>
